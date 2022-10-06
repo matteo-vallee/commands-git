@@ -2,3 +2,5 @@ git clone url
 git add
 git commit
 git push
+git branch nom(de la branch)
+git checkout nom 
